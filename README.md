@@ -14,6 +14,8 @@ Studying IT-Systems Engineering at [Hasso-Plattner-Institut](https://hpi.de/) in
 
 🌱 I’m currently learning about Deep Learning, building apps with Flutter and entrepreneurship in general
 
+🥳 I enjoy participating in Hackathons and meeting new people
+
 <!--
 - ⚡ Fun fact: My shoe size is 42
 -->
