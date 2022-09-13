@@ -1,8 +1,8 @@
 ### Hi there, I'm Jacob Schäfer 👋
 
-Software Engineer Working Student at IIoT startup (Visense)[https://www.visense.io/]
+Software Engineer Working Student at IIoT startup [Visense](https://www.visense.io/)
 
-Studying IT-Systems Engineering at (Hasso-Plattner-Institut)[https://hpi.de/] in Potsdam
+Studying IT-Systems Engineering at [Hasso-Plattner-Institut](https://hpi.de/) in Potsdam
 
 ---
 
