@@ -12,7 +12,7 @@ Studying IT-Systems Engineering at [Hasso-Plattner-Institut](https://hpi.de/) in
 
 🔭 At Visense I'm mostly writing code for edge devices in C++ and Python. I'm also doing fullstack development with React and Node.js.
 
-🌱 I’m currently learning about Deep Learning, building apps with Flutter and entrepreneurship in general
+🌱 I’m currently learning about Deep Learning, golang and entrepreneurship in general
 
 🥳 I enjoy participating in Hackathons and meeting new people
 
