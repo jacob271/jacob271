@@ -1,6 +1,6 @@
 ### Hi, I'm Jacob Schäfer 👋
 
-I'm studying IT-Systems Engineering (M.Sc.) at [Hasso-Plattner-Institute](https://hpi.de/) in Potsdam. However, I’m currently at [Télécom Paris](https://www.telecom-paris.fr/) for an Erasmus exchange semester until end of February.
+I'm studying IT-Systems Engineering (M.Sc.) at [Hasso-Plattner-Institute](https://hpi.de/) in Potsdam and I'm working at [krisenchat](https://krisenchat.de/).
 
 ---
 
@@ -12,7 +12,7 @@ I'm studying IT-Systems Engineering (M.Sc.) at [Hasso-Plattner-Institute](https:
 
 - As part of a lecture at HPI, we are developing a generative AI use case for [MEGA Gruppe](https://www.mega.de/) in a team of five students. The goal is to make their internal knowledge accessible via a chatbot using retrieval-augmented generation.
 - As part of the Advanced Machine Learning Seminar at HPI, I’m exploring ways to improve the diagnosis of Alzheimer’s disease based on MRI scans. I’m focusing on Variational Autoencoders and whether additionally using segmentation masks can help to preserve more relevant details of the scans.
-- At Télécom Paris I’m working on a small data science project in Python as part of the lecture: "Economics of Sustainable Development and IT"
+<!-- - At Télécom Paris I’m working on a small data science project in Python as part of the lecture: "Economics of Sustainable Development and IT" -->
 
 **Some past projects/experiences I'm proud of**
 
