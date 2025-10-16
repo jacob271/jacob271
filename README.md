@@ -1,12 +1,8 @@
 ### Hi, I'm Jacob Schäfer 👋
 
-I'm studying IT-Systems Engineering (M.Sc.) at [Hasso-Plattner-Institute](https://hpi.de/) in Potsdam and I'm working at [krisenchat](https://krisenchat.de/).
+I'm studying Computer Science (M.Sc.) at [Hasso-Plattner-Institute](https://hpi.de/) in Potsdam and I'm working at [krisenchat](https://krisenchat.de/).
 
 ---
-
-<!--
-**jacob271/jacob271** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 **Projects I'm working on right now**
 
