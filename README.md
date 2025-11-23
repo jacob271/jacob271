@@ -11,7 +11,7 @@ I'm studying Computer Science (M.Sc.) at [Hasso-Plattner-Institute](https://hpi.
 
 **Some past projects/experiences I'm proud of**
 
-- **Generative AI for [MEGA Gruppe](https://www.mega.de/)**: We implemented a RAG based chatbot for employees and customers of the MEGA Gruppe. At the end of the project, we pitched our solution to SAP CEO Christian Klein and CTO Philipp Herzig.
+- **Generative AI for [MEGA Gruppe](https://www.mega.de/)**: We implemented a RAG based chatbot for employees and customers of the MEGA Gruppe. We pitched our solution to SAP CEO Christian Klein and CTO Philipp Herzig.
 - As part of the Advanced Machine Learning Seminar at HPI, I was exploring ways to improve the diagnosis of Alzheimer’s disease based on MRI scans. My research focused on Variational Autoencoders and whether additionally using segmentation masks can help to preserve more relevant details of the scans.
 - For more than one and a half years, I have been working at [Visense](https://www.visense.io/) as a working student. I was doing full-stack development with React and Node.js and also writing code for edge devices in C++ and Python.
 - During my bachelor thesis, I explored ways to mitigate bias in skin lesion classification models. Check out the Repository below or visit this [GitHub-Page](https://jacob271.github.io/mitigating-bias-in-skin-lesion-classification-models/).
